@@ -1,0 +1,98 @@
+ID_GRUPO;Descricao;ID_ALIMENTO;Alimento
+ 1,0;Cereais e derivados; 2,0;Arroz, integral, cru
+ 1,0;Cereais e derivados; 4,0;Arroz, tipo 1, cru
+ 1,0;Cereais e derivados; 6,0;Arroz, tipo 2, cru
+ 1,0;Cereais e derivados; 8,0;Biscoito, doce, maisena
+ 1,0;Cereais e derivados; 10,0;Biscoito, doce, recheado com morango
+ 1,0;Cereais e derivados; 12,0;Biscoito, doce, wafer, recheado de morango
+ 1,0;Cereais e derivados; 14,0;Bolo, mistura para
+ 1,0;Cereais e derivados; 16,0;Bolo, pronto, chocolate
+ 1,0;Cereais e derivados; 18,0;Bolo, pronto, milho
+ 1,0;Cereais e derivados; 20,0;Canjica, com leite integral
+ 1,0;Cereais e derivados; 22,0;Cereais, milho, flocos, sem sal
+ 1,0;Cereais e derivados; 24,0;Cereais, mistura para vitamina, trigo, cevada e aveia
+ 1,0;Cereais e derivados; 26,0;Cereal matinal, milho, açúcar
+ 1,0;Cereais e derivados; 28,0;Creme de milho, pó
+ 1,0;Cereais e derivados; 30,0;Curau, milho verde, mistura para
+ 1,0;Cereais e derivados; 32,0;Farinha, de centeio, integral
+ 1,0;Cereais e derivados; 34,0;Farinha, de rosca
+ 1,0;Cereais e derivados; 36,0;Farinha, láctea, de cereais
+ 1,0;Cereais e derivados; 38,0;Lasanha, massa fresca, crua
+ 1,0;Cereais e derivados; 40,0;Milho, fubá, cru
+ 1,0;Cereais e derivados; 42,0;Milho, verde, enlatado, drenado
+ 1,0;Cereais e derivados; 44,0;Pamonha, barra para cozimento, pré-cozida
+ 1,0;Cereais e derivados; 46,0;Pão, de soja
+ 1,0;Cereais e derivados; 48,0;Pão, milho, forma
+ 1,0;Cereais e derivados; 50,0;Pão, trigo, francês
+ 1,0;Cereais e derivados; 52,0;Pastel, de carne, cru
+ 1,0;Cereais e derivados; 54,0;Pastel, massa, crua
+ 1,0;Cereais e derivados; 56,0;Pipoca, com óleo de soja, sem sal
+ 2,0;Verduras, hortaliças e derivados; 58,0;Abóbora, cabotian, cozida
+ 2,0;Verduras, hortaliças e derivados; 60,0;Abóbora, moranga, refogada
+ 2,0;Verduras, hortaliças e derivados; 62,0;Abobrinha, italiana, refogada
+ 2,0;Verduras, hortaliças e derivados; 64,0;Almeirão, refogado
+ 2,0;Verduras, hortaliças e derivados; 66,0;Batata, inglesa, frita
+ 2,0;Verduras, hortaliças e derivados; 68,0;Biscoito, polvilho doce
+ 2,0;Verduras, hortaliças e derivados; 70,0;Brócolis, cru
+ 2,0;Verduras, hortaliças e derivados; 72,0;Catalonha, crua
+ 2,0;Verduras, hortaliças e derivados; 74,0;Cenoura, cozida
+ 2,0;Verduras, hortaliças e derivados; 76,0;Couve, manteiga, refogada 
+ 2,0;Verduras, hortaliças e derivados; 78,0;Espinafre, Nova Zelândia, refogado
+ 2,0;Verduras, hortaliças e derivados; 80,0;Farinha, de mandioca, torrada
+ 2,0;Verduras, hortaliças e derivados; 82,0;Inhame, cru
+ 2,0;Verduras, hortaliças e derivados; 84,0;Jurubeba, crua
+ 2,0;Verduras, hortaliças e derivados; 86,0;Mandioca, crua
+ 2,0;Verduras, hortaliças e derivados; 88,0;Mandioca, frita
+ 2,0;Verduras, hortaliças e derivados; 90,0;Nhoque, batata, cozido
+ 2,0;Verduras, hortaliças e derivados; 92,0;Pão, de queijo, cru
+ 3,0;Frutos e derivados; 94,0;Salsa, crua
+ 3,0;Frutos e derivados; 96,0;Abiu, cru
+ 3,0;Frutos e derivados; 98,0;Açaí, polpa, congelada
+ 3,0;Frutos e derivados; 100,0;Atemóia, crua
+ 3,0;Frutos e derivados; 102,0;Cupuaçu, cru
+ 3,0;Frutos e derivados; 104,0;Fruta-pão, crua
+ 3,0;Frutos e derivados; 106,0;Goiaba, vermelha, com casca, crua
+ 3,0;Frutos e derivados; 108,0;Jaca, crua
+ 3,0;Frutos e derivados; 110,0;Maçã, Argentina, com casca, crua
+ 3,0;Frutos e derivados; 112,0;Manga, Haden, crua
+ 3,0;Frutos e derivados; 114,0;Manga, Tommy Atkins, crua
+ 3,0;Frutos e derivados; 116,0;Pêra, Park, crua
+ 3,0;Frutos e derivados; 118,0;Tamarindo, cru
+ 4,0;Gorduras e óleos; 120,0;Azeite, de dendê
+ 4,0;Gorduras e óleos; 122,0;Manteiga, com sal
+ 4,0;Gorduras e óleos; 124,0;Margarina, com óleo hidrogenado, com sal (65% de lipídeos)
+ 4,0;Gorduras e óleos; 126,0;Margarina, com óleo interesterificado, sem sal (65% de lipídeos)
+ 4,0;Gorduras e óleos; 128,0;Óleo, de canola
+ 4,0;Gorduras e óleos; 130,0;Óleo, de milho
+ 5,0;Carnes e derivados; 132,0;Óleo, de soja
+ 5,0;Carnes e derivados; 134,0;Apresuntado
+ 5,0;Carnes e derivados; 136,0;Caldo de galinha, tablete
+ 5,0;Carnes e derivados; 138,0;Carne, bovina, acém, moído, cru
+ 5,0;Carnes e derivados; 140,0;Carne, bovina, acém, sem gordura, cru
+ 5,0;Carnes e derivados; 142,0;Carne, bovina, almôndegas, fritas
+ 5,0;Carnes e derivados; 144,0;Carne, bovina, bucho, cru
+ 5,0;Carnes e derivados; 146,0;Carne, bovina, capa de contra-filé, com gordura, grelhada
+ 5,0;Carnes e derivados; 148,0;Carne, bovina, capa de contra-filé, sem gordura, grelhada
+ 5,0;Carnes e derivados; 150,0;Carne, bovina, charque, cru
+ 5,0;Carnes e derivados; 152,0;Carne, bovina, contra-filé de costela, cru
+ 5,0;Carnes e derivados; 154,0;Carne, bovina, contra-filé, com gordura, cru
+ 5,0;Carnes e derivados; 156,0;Carne, bovina, contra-filé, sem gordura, cru
+ 5,0;Carnes e derivados; 158,0;Carne, bovina, costela, assada
+ 5,0;Carnes e derivados; 160,0;Carne, bovina, coxão duro, sem gordura, cozido
+ 5,0;Carnes e derivados; 162,0;Carne, bovina, contra-filé, com gordura, grelhado
+ 5,0;Carnes e derivados; 164,0;Carne, bovina, coxão mole, sem gordura, cru
+ 5,0;Carnes e derivados; 166,0;Carne, bovina, cupim, cru
+ 5,0;Carnes e derivados; 168,0;Carne, bovina, fígado, grelhado
+ 5,0;Carnes e derivados; 170,0;Carne, bovina, filé mingnon, sem gordura, grelhado
+ 5,0;Carnes e derivados; 172,0;Carne, bovina, flanco, sem gordura, cru
+ 5,0;Carnes e derivados; 174,0;Carne, bovina, fraldinha, com gordura, crua
+ 5,0;Carnes e derivados; 176,0;Carne, bovina, lagarto, cru
+ 5,0;Carnes e derivados; 178,0;Carne, bovina, língua, crua
+ 5,0;Carnes e derivados; 180,0;Carne, bovina, maminha, grelhada
+ 5,0;Carnes e derivados; 182,0;Carne, bovina, miolo de alcatra, sem gordura, grelhado
+ 5,0;Carnes e derivados; 184,0;Carne, bovina, músculo, sem gordura, cru
+ 5,0;Carnes e derivados; 186,0;Carne, bovina, paleta, sem gordura, cozida
+ 5,0;Carnes e derivados; 188,0;Carne, bovina, patinho, sem gordura, cru
+ 5,0;Carnes e derivados; 190,0;Carne, bovina, peito, sem gordura, cozido
+ 5,0;Carnes e derivados; 192,0;Carne, bovina, picanha, com gordura, crua
+ 5,0;Carnes e derivados; 194,0;Carne, bovina, picanha, sem gordura, crua
