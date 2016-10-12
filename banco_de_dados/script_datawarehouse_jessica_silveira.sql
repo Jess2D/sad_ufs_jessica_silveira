@@ -17,7 +17,7 @@ CREATE TABLE public.dim_tempo(
 	"ID_tempo" varchar(12) NOT NULL,
 	"Semestre" varchar(12),
 	"Ano" varchar(4),
-	CONSTRAINT pk_tempoo PRIMARY KEY ("ID_tempo")
+	CONSTRAINT pk_tempo PRIMARY KEY ("ID_tempo")
 );
 
 
@@ -25,7 +25,7 @@ CREATE TABLE public.dim_tempo(
 CREATE TABLE public.dim_disciplina(
 	"ID_disciplina" varchar(12) NOT NULL,
 	"Descricao" varchar(12),
-	CONSTRAINT pk_tempo PRIMARY KEY ("ID_disciplina")
+	CONSTRAINT pk_diciplina PRIMARY KEY ("ID_disciplina")
 );
 
 
